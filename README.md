@@ -1,9 +1,9 @@
 # Pessoal-Projects
 Ordenados por data de criação.
 
-### 1 - Implemente uma fila para armazenar os arquivos que serão lidos.
+### 1 - Pokedex
 
-- Pokedex html + css + javascript
+-  html + css + javascript
 
 1 - Pokedex html + css + javascript
 
