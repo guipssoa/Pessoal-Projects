@@ -1,10 +1,11 @@
 # Pessoal-Projects
 Ordenados por data de criação.
 
-### 1 - Pokedex - html + css + javascript
-
-### 2 - Vips Cars
+1 - Pokedex 
 - html + css + javascript
 
-### 3 - Staking World
+2 - Vips Cars
+- html + css + javascript
+
+3 - Staking World
 - html + cs
