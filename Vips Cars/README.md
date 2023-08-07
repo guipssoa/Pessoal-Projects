@@ -1,5 +1,3 @@
-ACESSE O PROJETO: https://guipssoa.github.io/VIPSCARS/
-
 ![vipcarsweb1](https://user-images.githubusercontent.com/102192169/190522248-60f90603-70a6-4ebb-ac16-43804d8ca7ff.png)
 ![vipcarsweb2](https://user-images.githubusercontent.com/102192169/190522289-710a58f0-d8d5-4002-8e90-ea749d6fbcfa.png)
 ![vipcarsweb3](https://user-images.githubusercontent.com/102192169/190522321-9e7c0de7-9644-416b-83b2-ae64d7282f15.png)
