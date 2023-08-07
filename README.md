@@ -2,7 +2,7 @@
 Ordenados por data de criação.
 
 ### 1 - Pokedex
--  html + css + javascript
+- html + css + javascript
 
 1 - Pokedex html + css + javascript
 
