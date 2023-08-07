@@ -1,0 +1,8 @@
+ACESSE O PROJETO: https://guipssoa.github.io/POKEDEX/
+
+![Captura de tela de 2022-09-15 19-59-47](https://user-images.githubusercontent.com/102192169/190523174-fb0dabd9-0b35-4f57-b0ce-7e98fec94ea5.png)
+![Captura de tela de 2022-09-15 19-59-34](https://user-images.githubusercontent.com/102192169/190523224-19c977fa-0220-4aa4-9fe1-61a32847c775.png)
+![Captura de tela de 2022-09-15 19-59-56](https://user-images.githubusercontent.com/102192169/190523241-4a546e89-576a-4361-9ed7-f0d47a37a141.png)
+![Captura de tela de 2022-09-15 20-00-04](https://user-images.githubusercontent.com/102192169/190523248-1df80667-0dd1-48fb-8ecf-a49cfd53446b.png)
+![Captura de tela de 2022-09-15 20-00-08](https://user-images.githubusercontent.com/102192169/190523257-f43622b2-395d-4f00-8907-489af4ab9d67.png)
+![Captura de tela de 2022-09-15 20-00-12](https://user-images.githubusercontent.com/102192169/190523266-e613d43a-1699-49c0-8229-ca72b8b56e38.png)
